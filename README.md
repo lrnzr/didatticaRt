@@ -5,4 +5,4 @@ Un lavoro didattico ad uso studenti per il calcolo dell'indice di riproduzione R
 
 [nbViewr](https://nbviewer.jupyter.org/github/lrnzr/didatticaRt/tree/main/)
 
-[myBinder](https://mybinder.org/v2/gh/lrnzr/didatticaRt/master)
+[myBinder](https://mybinder.org/v2/gh/lrnzr/didatticaRt/main)
