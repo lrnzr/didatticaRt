@@ -9,7 +9,7 @@ I supporti didattici sono costituiti da
 - un foglio di calcolo Excel, `nuoviPositivi-IT.xlsx` dove seguendo il [diagramma](https://www.lorenzoroi.net/indiceRt/indiceRt.html#fig08) di flusso presente nella pagina di riferimento, si riportano formule, calcoli e rappresentazioni grafiche associati a tutti i parametri coinvolti.
 
 - Seguono quindi cinque notebook di [Jupyter](https://jupyter.org) ciascuno dei quali ha per obiettivo,  
-    - `prelevaRinomina.ipynb` preleva dal Dipartimento della Protezione Civile  [DPC Covid-19](https://github.com/pcm-dpc/COVID-19) i file di dati necessari ai successivi tre notebook e li rinomina coerentemente alla data di prelievo;
+    - `prelevaRinomina.ipynb` preleva dal Dipartimento della Protezione Civile  [DPC Covid-19](https://github.com/pcm-dpc/COVID-19) i file di dati necessari ai successivi quattro notebook e li rinomina coerentemente alla data di prelievo;
     - `medieMobiliNuoviPositivi.ipynb` sulla base dei due file prelevati con il precedente notebook,  rappresenta i dati giornalieri dei nuovi positivi ed esegue, di questi, due medie mobili di 7 e 14 giorni;
     - `tassoCrescitaLambda.ipynb` calcola il tasso di crescita &lambda; tramite una regressione lineare, esegue una sua media mobile e ne rappresenta l'andamento;
     - `indiceRiproduzioneRt.ipynb` calcola l'indice di riproduzione sulla base di una stima del tempo di generazione e del parametro &lambda;, esegue una sua media mobile e rappresenta i risultati assieme, eventualmente, agli intervalli di confidenza;
@@ -24,7 +24,7 @@ Nel caso si intenda visualizzare solo il contenuto dei cinque notebook avviare *
 
 Se invece si voglia sperimentare online in modo interattivo con i notebook lanciare *Binder*.
 
-In alternativa al prelievo dei dati più recenti con il notebook `prelevaRinomina.ipynb` si può iniziare la sperimentazione con i due file di dati già presenti nella cartella e collegati alla data `20210815`. 
+In alternativa al prelievo con il notebook `prelevaRinomina.ipynb` dei dati più recenti si può iniziare la sperimentazione con i due file di dati già presenti nella cartella e collegati alla data `20210815`. 
 
 in ogni caso il caricamento sul server del notebook scelto richiede alcuni secondi di attesa per poter poi iniziare l'elaborazione.
 
