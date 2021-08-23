@@ -13,7 +13,7 @@ I supporti didattici sono costituiti da
     - `medieMobiliNuoviPositivi.ipynb` sulla base dei due file prelevati con il precedente notebook,  rappresenta i dati giornalieri dei nuovi positivi ed esegue, di questi, due medie mobili di 7 e 14 giorni;
     - `tassoCrescitaLambda.ipynb` calcola il tasso di crescita &lambda; tramite una regressione lineare, esegue una sua media mobile e ne rappresenta l'andamento;
     - `indiceRiproduzioneRt.ipynb` calcola l'indice di riproduzione sulla base di una stima del tempo di generazione e del parametro &lambda;, esegue una sua media mobile e rappresenta i risultati assieme, eventualmente, agli intervalli di confidenza;
-    - `indiceRt-30giorni.ipynb` calcola l'indice di riproduzione e gli intervalli di confidenza degli ultimi 30 giorni e li riporta a video. 
+    - `indiceRt-30giorni.ipynb` calcola l'indice di riproduzione e gli intervalli di confidenza degli ultimi 30 giorni e li riporta in forma numerica a video. 
 
 ## Consultazione
 
