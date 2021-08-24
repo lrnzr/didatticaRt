@@ -26,7 +26,7 @@ Nel caso si intenda visualizzare solo il contenuto dei cinque notebook avviare *
 
 Se invece si vuole sperimentare online in modo interattivo con i notebook lanciare *Binder*.
 
-<img source="./attenzione.png" title="attenzione" style="width:65%">
+<img source="<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="20" role="img" aria-label="attenzione"><title>attenzione</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="67" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="0" height="20" fill="#e05d44"/><rect x="0" width="67" height="20" fill="#e05d44"/><rect width="67" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="335" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="570">attenzione</text><text x="335" y="140" transform="scale(.1)" fill="#fff" textLength="570">attenzione</text></g></svg>" title="attenzione" style="width:65%">
  
 In alternativa al prelievo dei dati più recenti dal repository del [DPC](https://github.com/pcm-dpc/COVID-19) tramite il notebook `prelevaRinomina.ipynb`, si può comunque iniziare la sperimentazione con i due file di dati già presenti nella cartella e relativi alla data ISO `20210815`. 
 
