@@ -26,7 +26,7 @@ Nel caso si intenda visualizzare solo il contenuto dei cinque notebook avviare *
 
 Se invece si vuole sperimentare online in modo interattivo con i notebook lanciare *Binder*.
 
-![attenzione](attenzione.png)
+<img source="./attenzione.png" title="attenzione" style="width:65%">
  
 In alternativa al prelievo dei dati più recenti dal repository del [DPC](https://github.com/pcm-dpc/COVID-19) tramite il notebook `prelevaRinomina.ipynb`, si può comunque iniziare la sperimentazione con i due file di dati già presenti nella cartella e relativi alla data ISO `20210815`. 
 
