@@ -2,6 +2,8 @@
 
 ![variazione giornaliera](fig13.svg)
 
+![variazione giornaliera](https://raw.githubusercontent.com/lrnzr/didatticaRt/tree/master//fig13.svg)
+
 Riportiamo qui i materiali didattici accessori collegati alla pagina presente in [www.lorenzoroi.net](https://www.lorenzoroi.net) e relativa al [calcolo dell'indice <em>R<sub>t</sub></em>](https://www.lorenzoroi.net/indiceRt/indiceRt.html) del Covid-19.
 
 I supporti didattici sono costituiti da
